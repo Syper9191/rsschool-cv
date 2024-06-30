@@ -1,5 +1,5 @@
 # rsschool-cv
-========================================================================
+===
 # **Artsiom Matsko**
 ========================================================================
 # **Contacts**
@@ -21,16 +21,13 @@ I am 33 years old and my goal is to gain knowledge in the field of front-end dev
 #**Code Example**
 ========================================================================
 ```
-function time() {
-    var secondsinaminute=60;
-    var minutesinahour=60;
-    var secondsinahour=secondsinaminute*minutesinahour;
-    secondsinahour;
+function multiply(a, b){
+return a * b;
 }
 ```
 #**Work Experience**
 ========================================================================
-I have no work experience.
+https://Syper9191.github.io/rsschool-cv/cv
 #**Education**
 ========================================================================
 **University:**Belarusian State University of Informatics and Radioelectronics.
