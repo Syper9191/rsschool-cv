@@ -4,9 +4,9 @@
 *******************************************************
 # **Contacts**
 *******************************************************
-    + **Phone** +375293630355
-    + **E-mail** Syper9191@gmail.com
-    + **GitHub** Syper9191
+     **Phone** +375293630355
+     **E-mail** Syper9191@gmail.com
+     **GitHub** Syper9191
 # **About Me**
 *******************************************************
 I am 33 years old and my goal is to gain knowledge in the field of front-end development.
